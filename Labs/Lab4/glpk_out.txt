@@ -1,13 +1,13 @@
-Solver command line: ['C:\\Users\\57313\\anaconda3\\envs\\pyomo_env\\Library\\bin\\glpsol.exe', '--write', 'C:\\Users\\57313\\AppData\\Local\\Temp\\tmpkio5vxsi.glpk.raw', '--wglp', 'C:\\Users\\57313\\AppData\\Local\\Temp\\tmphwpag_bs.glpk.glp', '--cpxlp', 'C:\\Users\\57313\\AppData\\Local\\Temp\\tmp51buzjlh.pyomo.lp']
+Solver command line: ['/home/trodriten/anaconda3/envs/mos/bin/glpsol', '--write', '/tmp/tmpl2bx1ztc.glpk.raw', '--wglp', '/tmp/tmp__sljyg6.glpk.glp', '--cpxlp', '/tmp/tmp_qonpyvp.pyomo.lp']
 
 GLPSOL--GLPK LP/MIP Solver 5.0
 Parameter(s) specified in the command line:
- --write C:\Users\57313\AppData\Local\Temp\tmpkio5vxsi.glpk.raw --wglp C:\Users\57313\AppData\Local\Temp\tmphwpag_bs.glpk.glp
- --cpxlp C:\Users\57313\AppData\Local\Temp\tmp51buzjlh.pyomo.lp
-Reading problem data from 'C:\Users\57313\AppData\Local\Temp\tmp51buzjlh.pyomo.lp'...
+ --write /tmp/tmpl2bx1ztc.glpk.raw --wglp /tmp/tmp__sljyg6.glpk.glp --cpxlp
+ /tmp/tmp_qonpyvp.pyomo.lp
+Reading problem data from '/tmp/tmp_qonpyvp.pyomo.lp'...
 8 rows, 10 columns, 65 non-zeros
 118 lines were read
-Writing problem data to 'C:\Users\57313\AppData\Local\Temp\tmphwpag_bs.glpk.glp'...
+Writing problem data to '/tmp/tmp__sljyg6.glpk.glp'...
 104 lines were written
 GLPK Simplex Optimizer 5.0
 8 rows, 10 columns, 65 non-zeros
@@ -22,7 +22,7 @@ Size of triangular part is 8
 *     4: obj =   3.756250000e+02 inf =   0.000e+00 (0)
 OPTIMAL LP SOLUTION FOUND
 Time used:   0.0 secs
-Memory used: 0.0 Mb (35431 bytes)
-Writing basic solution to 'C:\Users\57313\AppData\Local\Temp\tmpkio5vxsi.glpk.raw'...
+Memory used: 0.0 Mb (39693 bytes)
+Writing basic solution to '/tmp/tmpl2bx1ztc.glpk.raw'...
 27 lines were written
 
