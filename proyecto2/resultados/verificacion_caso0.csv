@@ -1,0 +1,4 @@
+VehicleId,DepotId,InitialLoad,RouteSequence,ClientsServed,DemandsSatisfied,TotalDistance,TotalTime,FuelCost
+V1,CD1,80,CD1 - C2 - CD1,1,80,3.7279,8.94696,19571.475
+V2,CD2,50,CD2 - C1 - CD2,1,50,6.7716,16.25184,35550.9
+V3,CD1,65,CD1 - C3 - CD1,1,65,8.6026,20.646240000000002,45163.65
