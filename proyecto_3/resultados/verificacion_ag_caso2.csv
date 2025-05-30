@@ -1,0 +1,3 @@
+VehicleId,DepotId,InitialLoad,RouteSequence,ClientsServed,DemandsSatisfied,TotalDistance,TotalTime,FuelCost
+V1,CD6,68.0,CD6 - C6 - C9 - C7 - C8 - C5 - C3 - CD9,6,11 - 15 - 12 - 10 - 5 - 15,59.8641,143.67383999999998,314286.52499999997
+V2,CD6,33.0,CD6 - C4 - C1 - C2 - CD5,3,6 - 12 - 15,24.2157,58.11767999999999,127132.42499999997
